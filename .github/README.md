@@ -1,26 +1,27 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ 」──
+    ──「 𓆩 ᕲᖇᗩᘜꄲꋊ ᗷꄲT 𓆪 」──
 </h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/018fbdef43c96ca2092fc.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ](https://t.me/FallenXRobot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ 𓆩 ᕲᖇᗩᘜꄲꋊ ᗷꄲT 𓆪 ](https://t.me/DRAG0N69bot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/AnonymousR1025/FallenRobot/stargazers"><img src="https://img.shields.io/github/stars/AnonymousR1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AnonymousR1025/FallenRobot/network/members"> <img src="https://img.shields.io/github/forks/AnonymousR1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AnonymousR1025/FallenRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Rachit0p/Rachit0P/stargazers"><img src="https://img.shields.io/github/stars/Rachit0p/Rachit0P?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Rachit0p/Rachit0P/network/members"> <img src="https://img.shields.io/github/forks/Rachit0p/Rachit0P?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Rachit0p/Rachit0P/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/AnonymousR1025/FallenRobot"> <img src="https://img.shields.io/github/repo-size/AnonymousR1025/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/AnonymousR1025/FallenRobot/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Rachit0p/Rachit0P"> <img src="https://img.shields.io/github/repo-size/Rachit0p/Rachit0P?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/Rachit0p/Rachit0P/commits/Rachit0p"> <img src="https://img.shields.io/github/last-commit/Rachit0p/Rachit0P?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
+
 
 ━━━━━━━━━━━━━━━━━━━━
 
